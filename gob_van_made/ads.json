@@ -1,0 +1,34 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-4265257038553398/2219825189",
+      "main_ads_intertitial":"ca-app-pub-4265257038553398/5923266470",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"ca-app-pub-4265257038553398/2303585662",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "asuransi",
+      "high_paying_keyword_2": "apartemen",
+      "high_paying_keyword_3": "kredit",
+      "high_paying_keyword_4": "pinjaman",
+      "high_paying_keyword_5": "betting",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Mods": [
+    {
+      "name": "Gelo",
+      "image": "file:///android_asset/evil-wubbox-.webp",
+      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
+      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip.zip",
+      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
+    }
+  ]
+}
